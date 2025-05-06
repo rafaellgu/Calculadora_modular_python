@@ -9,3 +9,9 @@ def multiplicacion (a,b):
 
 def division (a,b):
     return a/b
+
+def potencia (a,b):
+    return a**b
+
+def divisionEntera(a,b):
+    return a//b
